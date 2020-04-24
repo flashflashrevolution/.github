@@ -48,6 +48,7 @@ Whenever you begin work on a new feature or bugfix, it's important that you crea
 **Utilize this naming convention when coming up with a branch name:**
 
 > **Feature:** feat/a-fancy-new-feature
+>
 > **Fix:** fix/notes-go-backwards
 
 ### Forking
@@ -218,6 +219,7 @@ When you submit code to the repo, you give us the rights to use the code.
 #### Process
 
 You may be confronted with comments about extraneous files that you have added unintentionally to the repository.
+
 Read up on how to [add files to .gitignore](https://help.github.com/en/github/using-git/ignoring-files).
 
 You may be asked to go back and make changes to your code. To avoid this situation, especially if you are working for more than a few hours on something, share your progress by commenting on your issue asking for comments or advice, or in #dev-chitchat. (Make sure you link to the branch you are working in in your fork.)
