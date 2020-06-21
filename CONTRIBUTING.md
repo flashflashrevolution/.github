@@ -25,7 +25,12 @@ If you lack confidence in git, please read it twice, and then ask questions.
 
 ## First things first
 
-When you have the desire to contribute to this repository, please first open a discussion for the change via an issue on Github and feel free to bring your issue up in the #dev-chitchat discord channel. If you intend to do the legwork for the change, make sure you specify that in the issue body.
+When you have the desire to contribute to this repository,
+please first open a discussion for the change via an issue on Github and feel free to bring your issue up in the #dev-chitchat discord channel.
+
+If you would like to claim an issue that you did not create,
+please discuss it in #dev-chitchat and follow up by leaving a comment in the issue itself.
+A team memeber will assign you to the issue.
 
 ## Methodologies
 
@@ -33,7 +38,7 @@ First, an overview of contributing to our repositories.
 
 ### Team Composition
 
-The r3 development team is made up of three groups.
+The FFR development team is made up of three groups.
 
 1. Steering
 2. Core
@@ -53,13 +58,19 @@ Whenever you begin work on a new feature or bugfix, it's important that you crea
 
 ### Forking
 
-If you are a contributor in the Public group, there is no such branching restrictions. You are instead required to create a fork of the repository and work from there.
+If you are a contributor in the Public group,
+there is no such branching restrictions.
+You are instead required to create a fork of the repository and work from there.
 
 ### Frequent Commits
 
-It is highly recommended that you make your commits as small and as often as possible. This may seem like it will get unweildly, but it makes it easy to follow your own work and quickly restore various pieces of your code to previous revisions.
+It is highly recommended that you make your commits as small and as often as possible.
+This may seem like it will get unweildly,
+but it makes it easy to follow your own work and quickly restore various pieces of your code to previous revisions.
 
-Never worry about your commits cluttering up the mainline repository, your branch will be squashed and merged onto the master branch. This means that, in the end, you will be responsible for one single commit and merge commit.
+Never worry about your commits cluttering up the mainline repository,
+your branch will be squashed and merged onto the master branch.
+This means that, in the end, you will be responsible for one single commit and merge commit.
 
 ### Pull Requests
 
